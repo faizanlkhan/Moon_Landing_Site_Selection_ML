@@ -1,3 +1,4 @@
+# This is the old first version, new version will be updated soon (Collab file)
 # 🛰️ Moon Landing Site Prediction – Environment Setup Guide
 
 This project uses Python and several scientific libraries for raster, image, and ML-based analysis to predict potential lunar landing sites.
@@ -68,3 +69,4 @@ Make sure your terminal shows (.venv) before running the script:
 ```bash
 python moon_landing_ml.py
 ```
+
