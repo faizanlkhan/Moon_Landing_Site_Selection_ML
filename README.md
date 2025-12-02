@@ -35,7 +35,7 @@ The PPO agent outputs three continuous actions, converted via **softmax** into i
 ---
 
 ## 📈 Results  
-- ⭐ **Mean suitability:** ~0.74  
+- ⭐ **Mean suitability:** ~0.74 
 - 📊 **Max suitability:** 0.9066  
 - 🧭 **Average learned weights (top zones):**  
   - Water: ~0.595  
