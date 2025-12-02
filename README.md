@@ -40,7 +40,7 @@ The PPO agent outputs three continuous actions, converted via **softmax** into i
 - 🧭 **Average learned weights (top zones):**  
   - Water: ~0.595  
   - Slope: ~0.324  
-  - Sunlight: ~0.080  
+  - Sunlight: ~0.080
 - 🏁 Top landing zones extracted from the **95th percentile** of suitability.
 
 ---
